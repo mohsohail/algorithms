@@ -9,7 +9,6 @@ const maxSubArray = A => {
       max_so_far = max_ending_here;
     }
   }
-  console.log(max_so_far);
   return max_so_far;
 };
 
