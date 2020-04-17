@@ -1,2 +1,3 @@
 # arrays
-algorithms on arrays
+
+algorithms on arrays, strings and data structures
